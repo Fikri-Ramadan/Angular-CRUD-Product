@@ -1,3 +1,8 @@
+# Penjelasan
+Project ini dibuat Menggunakan 2 Framework: Angular sebagai Frontend dan Spring Boot sebagai Backend
+Link Frontend (Angular) : https://github.com/FikriNRamadan/Angular-CRUD-Product
+Link Backend (Spring Boot) : https://github.com/FikriNRamadan/SpringBoot-CRUD-Product
+
 # ~ Read Product
 <img width="960" alt="Read Product" src="https://github.com/FikriNRamadan/Angular-CRUD-Product/assets/92002739/b6894521-91de-4e67-9cdd-785cff43e76b">
 
