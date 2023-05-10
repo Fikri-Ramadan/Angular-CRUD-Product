@@ -1,27 +1,11 @@
-# FrontendAngular
+# ~ Read Product
+<img width="960" alt="Read Product" src="https://github.com/FikriNRamadan/Angular-CRUD-Product/assets/92002739/b6894521-91de-4e67-9cdd-785cff43e76b">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
+# ~ Add Product
+<img width="960" alt="Add Product" src="https://github.com/FikriNRamadan/Angular-CRUD-Product/assets/92002739/a2509386-3ad8-425b-8782-a5cadf40cba1">
 
-## Development server
+# ~ Edit Product
+<img width="960" alt="Edit Product" src="https://github.com/FikriNRamadan/Angular-CRUD-Product/assets/92002739/85f34ee0-f6c4-4da3-9cad-a0ed995aa752">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# ~ Delete Product
+<img width="960" alt="Delete Product" src="https://github.com/FikriNRamadan/Angular-CRUD-Product/assets/92002739/ed8d0513-14bc-4e2a-9c20-a8edb58d286e">
